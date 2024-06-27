@@ -1,0 +1,13 @@
+.c_paddin{
+	margin-bottom: 50px;
+}
+.box2{
+	width: 200px;
+	height: 200px;
+	background-color: #dddddd;
+	margin-bottom: 50px;
+}
+.box3{
+	background-color: #dddddd;
+	border: 5px solid red;
+}
